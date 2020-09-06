@@ -1,0 +1,75 @@
+.c1 {
+    min-height: 10vh;
+    font-size: 20px;
+  }
+
+  .c2 {
+    min-height: 80vh;
+    min-width : 20%;
+  }
+  .c3 {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+  }
+  .c4{
+    display: inline;
+    float: left;
+    width: 50vh;
+    margin-left:10px
+  }
+  .c5{
+      background: #ffffff;
+      border-radius: 5px;
+  }
+  .button{
+    background: #94ce69;
+    border-radius: 5px;
+    border-color: #94ce69;
+    margin:10px;
+  }
+  .c7{
+      padding: 10px;
+      border-radius: 5px;
+      display: flex;    
+      flex-flow: column;
+      background: #ffffff;
+      width:150px;
+      margin:10px;
+      float: left;
+  }
+  .view{
+    height:500px;
+    display: inline;
+    position: absolute;
+    overflow-y: scroll;
+
+  }
+  li {
+      color:#4c59b5;
+      padding-left: 10px;
+  }
+  .img{
+    height: 80px;
+    padding: 20px;
+    background:#EEEEEE;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 5px;
+  }
+  .fl{
+      float: left;
+  }
+  .flight_name{
+      color:#4c59b5;
+  }
+  .active_button{
+    background: #487a22;
+    border-radius: 5px;
+    border-color: #487a22;
+    margin:10px;
+  }
+  
